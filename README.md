@@ -1,11 +1,8 @@
-# ELEC5305 Project
+# Landmark Position and Binaural Turn Cues
+Jinjie Zhao, SID 540895948, ELEC5305.
 
-## Spatial Auditory Landmarks for Turn Perception in Audio-Only VR
+A MATLAB comparison of landmark bearing, distance and reference frame during a virtual walking turn. The project retains the original continuous binaural footsteps and uses a real fountain recording for the external sources.
 
-This project investigates whether placing auditory landmarks on the outside or inside of a virtual turn affects turn-direction perception and auditory vection.
+Open this folder in MATLAB and run `run_project.m` to reproduce the audio, figures and tables. Run `play_demo` for the two animated listening comparisons. Base MATLAB is sufficient; tested in R2026a Update 4.
 
-The project uses:
-
-- MATLAB for audio preparation and analysis
-- Unity for the virtual environment and experiment logic
-- Wwise for binaural spatial-audio rendering
+[Report](ELEC5305_Report.pdf) · [Video](project_video.mp4) · [Project page](https://jinjieee.github.io/elec5305-project-540895948/)
